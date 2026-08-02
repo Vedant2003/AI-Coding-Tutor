@@ -1,0 +1,33 @@
+```txt
+# ==========================
+# AI Coding Tutor
+# ==========================
+
+# UI
+streamlit>=1.48.0
+
+# Environment Variables
+python-dotenv>=1.1.0
+
+# LangChain
+langchain>=0.3.27
+langchain-core>=0.3.74
+langchain-community>=0.3.27
+langchain-ollama>=0.3.7
+
+# LangGraph
+langgraph>=0.6.5
+
+# LangSmith
+langsmith>=0.4.15
+
+# Vector Database
+chromadb>=1.0.20
+
+# Typing Extensions
+typing-extensions>=4.14.0
+
+# Optional Utilities
+pydantic>=2.11.7
+requests>=2.32.4
+```
